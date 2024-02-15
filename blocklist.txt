@@ -14,10 +14,11 @@ niceoppai.net###sct_top_banner
 niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(5) > center:nth-child(9)
 
 ! See more: https://adblock-thai.github.io/thai-ads-filter/subscription.txt
-!----- filters/category/anime_hide.txt -----
+!
+!----- anime_hide.txt -----!
 niceoppai.net###text-33
 niceoppai.net##a[target=_blank] > img
-!----- filters/category/anime_block.txt -----!
+!----- anime_block.txt -----!
 ||*.gif$image,domain=niceoppai.net
-!----- filters/whitelist/whitelist_block.txt -----!
+!----- whitelist_block.txt -----!
 @@||niceoppai.net/*/*.gif
