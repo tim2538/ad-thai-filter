@@ -1,10 +1,10 @@
-! Title: Thai Annoyance Filter
-! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups.
+! Title: tim2538's Ads Block Filter
+! Description: Additional blocks ads elements on web pages which Brave cannot block or hide.
 ! Version: 202402151839
 ! Last modified: 15 Feb 2024 18:39 UTC
 ! Expires: 3 days
 ! Homepage: https://tim2538.github.io/adblock-thai
-! Download: https://adblock-thai.github.io/adblock-thai/blocklist.txt
+! Download: https://tim2538.github.io/adblock-thai/blocklist.txt
 !
 !-------------- ads_filters --------------
 
