@@ -1,0 +1,14 @@
+! Title: Thai Annoyance Filter
+! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups.
+! Version: 202402151839
+! Last modified: 15 Feb 2024 18:39 UTC
+! Expires: 3 days
+! Homepage: https://tim2538.github.io/adblock-thai
+! Download: https://adblock-thai.github.io/adblock-thai/blocklist.txt
+!
+!-------------- ads_filters --------------
+
+niceoppai.net###text-2
+niceoppai.net###sct_col_r
+niceoppai.net###sct_top_banner
+niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(5) > center:nth-child(9)
