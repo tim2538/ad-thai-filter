@@ -14,8 +14,8 @@ niceoppai.net###sct_top_banner
 niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(5) > center:nth-child(9)
 
 !#if (adguard_ext_firefox || adguard_ext_chromium)
-@@||niceoppai.net
+||niceoppai.net
 !#endif
 !#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
-@@||niceoppai.net
+||niceoppai.net
 !#endif
