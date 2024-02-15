@@ -8,7 +8,6 @@
 
 !-------------- ads_filters --------------!
 
-||niceoppai.net^$domain=niceoppai.net
 niceoppai.net###text-2
 niceoppai.net###sct_col_r
 niceoppai.net###sct_top_banner
