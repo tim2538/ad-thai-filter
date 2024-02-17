@@ -6,12 +6,14 @@
 ! Homepage: https://tim2538.github.io/adblock-thai
 ! Download: https://tim2538.github.io/adblock-thai/blocklist.txt
 
-!-------------- ads_filters --------------!
+!-------------- ads_hidden_filters --------------!
 
 niceoppai.net###text-2
 niceoppai.net###sct_col_r
 niceoppai.net###sct_top_banner
 niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(5) > center:nth-child(9)
+niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(5) > div.fb-comment-box:nth-child(6)
+niceoppai.net###sct_content > div.fb-comment-box:last-child
 
 ! See more: https://adblock-thai.github.io/thai-ads-filter/subscription.txt
 !
