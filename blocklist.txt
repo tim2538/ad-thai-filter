@@ -14,6 +14,11 @@ niceoppai.net###sct_top_banner
 niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(5) > center:nth-child(9)
 niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(5) > div.fb-comment-box:nth-child(6)
 niceoppai.net###sct_content > div.fb-comment-box:last-child
+mangasuper.com###block-9
+mangasuper.com###sticky-ads-bottom2
+mangasuper.com###sticky-ads-bottom3
+mangasuper.com###sticky-ads-bottom
+mangasuper.com###block-14
 
 ! See more: https://adblock-thai.github.io/thai-ads-filter/subscription.txt
 !
