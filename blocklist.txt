@@ -19,6 +19,7 @@ mangasuper.com###sticky-ads-bottom2
 mangasuper.com###sticky-ads-bottom3
 mangasuper.com###sticky-ads-bottom
 mangasuper.com###block-14
+mangastep.com###content > div.wrapper > div.th-ban.text-center:nth-child(2)
 
 ! See more: https://adblock-thai.github.io/thai-ads-filter/subscription.txt
 !
