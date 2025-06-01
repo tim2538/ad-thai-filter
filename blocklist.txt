@@ -1,10 +1,10 @@
-! Title: tim2538's Ads Block Filter
+! Title: tim2538's Ads Thai Filter
 ! Description: Additional blocks ads elements on web pages which Brave cannot block or hide.
 ! Version: 202402151839
 ! Last modified: 15 Feb 2024 18:39 UTC
 ! Expires: 3 days
-! Homepage: https://tim2538.github.io/adblock-thai
-! Download: https://tim2538.github.io/adblock-thai/blocklist.txt
+! Homepage: https://tim2538.github.io/ad-thai-filter
+! Download: https://tim2538.github.io/ad-thai-filter/blocklist.txt
 
 !-------------- ads_hidden_filters --------------!
 
@@ -20,6 +20,8 @@ mangasuper.com###sticky-ads-bottom3
 mangasuper.com###sticky-ads-bottom
 mangasuper.com###block-14
 mangastep.com###content > div.wrapper > div.th-ban.text-center:nth-child(2)
+go-manga.com###sticky-bottom3
+go-manga.com###content > div.wrapper:first-child
 
 ! See more: https://adblock-thai.github.io/thai-ads-filter/subscription.txt
 !
